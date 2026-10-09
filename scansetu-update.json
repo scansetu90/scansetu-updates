@@ -1,11 +1,11 @@
 {
     "app":  "ScanSetu",
-    "version":  63,
+    "version":  64,
     "minVersion":  0,
     "date":  "10-10-2026",
     "file":  "ScanSetu Setup.exe",
     "size":  1207808,
-    "sha256":  "b20f5e5fa48659697162e6b2bc420adbd743be89da0b14cac39f7a94ef788f62",
+    "sha256":  "a783899b6922eb9b8b953b9e4a386b90d8e877f280f50d9a52ae3785874992e6",
     "notes":  [
                   "Restore from a backup: bring your data back, or move ScanSetu to a new computer",
                   "Setup checklist: see what is still left to set up, with a button to go there",
@@ -16,5 +16,5 @@
                   "Purchases: teach a supplier\u0027s bill once and it is remembered",
                   "Items and parties can be read straight from Tally, with no report to export"
               ],
-    "sig":  "ZkPIIEUxX9Kma7btslD+8vmHMsDjXEd/3/zEW7DviVk8p3jqq9bQxlFT2ZVpZak15OvFU5M2NGhlCWCddwmYbA/sRJrWfFZvurXKhF/e2owSakkirndRIJcogAeezqA6BYHsZcrPMsQbf+KvgIYz1AIjNl8E+lzAPX+Vnyk5S5OJWFgrRPzNTeCm2lHyYH7lMzr3WdQafXUEwiKWVYPADAJfVvaHccKAwHdyMAN2REvO5g4pMm8InBDul2YnI1z/EpC1XxGZQtj5l3piwxCfB+Fzc1NcunrPPdrLX8nTl9TkKDNZveeLpm3S4wF72Qb3rYrnHBFLBzJY85ufWn1VcA=="
+    "sig":  "tokRZbCc5BtoFEiU4wAp8iVdorVIiFO9ZSPe18Wl9RG3iB2hGhgEtNqjSmovYywofbAaA7FAt2HiAx1XsUW9g09Dxrfz4I0+vFpiqYuWJRXiUaBCdVbV0md4EVIvApTriFlqs2rP9cogycjJGvqb+mO0xbGPOHNLocRdeWfvnYaYcHZTClfuAhoxXcaBvapM5PJx9Dr/A5vXAFeycXsu74RDSG6mEuoOuhk7LMbIpHNoTsDIGovMZ4oYHS4K31kB5372FkbRW2gaKYRuaUNAKazFTRR6U8IRSemvPZMZty/L3V1LHYfPLmRAiIZn7YGAHqkK61ivV7ut1xC68McbpQ=="
 }
